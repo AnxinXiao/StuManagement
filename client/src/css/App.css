@@ -1,0 +1,27 @@
+.content {
+  margin-top: 80px;
+}
+.navigation {
+  line-height: 50px;
+  margin: 0 10px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.navigation:hover {
+  color: lightblue;
+}
+table {
+  margin-top: 20px;
+}
+th,
+tr {
+  text-align: center;
+}
+ul a:hover {
+  text-decoration: none;
+}
+.glyphicon::before{
+  position: relative;
+  top: 2px;
+  margin-right: 10px;
+}

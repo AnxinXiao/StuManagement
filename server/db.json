@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "name": "1233",
+      "age": "1",
+      "phoneNumber": "1",
+      "email": "1",
+      "education": "本科",
+      "graduationSchool": "1",
+      "profession": "1",
+      "profile": "1",
+      "id": 1
+    },
+    {
+      "name": "2",
+      "age": "2",
+      "phoneNumber": "2",
+      "email": "2",
+      "education": "本科",
+      "graduationSchool": "2",
+      "profession": "2",
+      "profile": "2",
+      "id": 2
+    },
+    {
+      "name": "3",
+      "age": "3",
+      "phoneNumber": "3",
+      "email": "3",
+      "education": "本科",
+      "graduationSchool": "3",
+      "profession": "3",
+      "profile": "3",
+      "id": 3
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "前端01班",
+      "description": "积极向上"
+    },
+    {
+      "id": 2,
+      "name": "前端02班",
+      "description": "勇往直前"
+    }
+  ]
+}
